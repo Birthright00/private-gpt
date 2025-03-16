@@ -125,7 +125,7 @@ sagemaker:
 
 openai:
   api_key: ${OPENAI_API_KEY:}
-  model: gpt-3.5-turbo
+  model: gpt-4o
   embedding_api_key: ${OPENAI_API_KEY:}
 
 ollama:
